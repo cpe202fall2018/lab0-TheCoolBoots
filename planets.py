@@ -1,8 +1,8 @@
 def weight_on_planets():
 	# write your code here
-	weight = float(input("What do you weigh on earth? "))
+	weight = float(input("What do you weigh on earth? \n"))
 	
-	print("\nOn Mars you would weigh ", (0.38*weight) ," pounds\nOn Jupiter you would weigh ", (2.34*weight) ," pounds")
+	print("On Mars you would weigh", (0.38*weight), "pounds.\nOn Jupiter you would weigh", (2.34*weight), "pounds.")
    
 	
    
